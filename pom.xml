@@ -8,10 +8,10 @@
         <version>2.1.9.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com.example.demo</groupId>
-    <artifactId>graphql</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>demo-graphql-spqr</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <description>Demo graphQL for Spring Boot</description>
+    <description>Demo graphql-spqr for Spring Boot</description>
 
     <properties>
         <java.version>1.8</java.version>
